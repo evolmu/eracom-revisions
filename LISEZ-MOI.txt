@@ -1,4 +1,4 @@
-ÉRACOM V8 — 42 croquis.
-Importer les fichiers et dossiers à la racine du dépôt GitHub en conservant photos/ et croquis/.
-Après publication, tester avec ?v=8 dans Safari.
-Les dessins sont pédagogiques ; les schémas du cours font référence pour les détails techniques.
+ÉRACOM V9 — 48 croquis, 78 fiches, quiz, examens et 43 photos originales.
+Décompresser et transférer le contenu à la racine du dépôt GitHub. Conserver photos/ et croquis/.
+Tester dans Safari avec ?v=9.
+Les schémas dessinés sont des aides pédagogiques ; vérifier les détails sur les documents officiels.
