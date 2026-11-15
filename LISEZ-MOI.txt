@@ -1,4 +1,4 @@
-ÉRACOM — Version V5, 24 croquis.
-Décompresser puis déposer les fichiers à la racine du dépôt GitHub, en conservant les dossiers croquis/ et photos/.
-Les croquis sont pédagogiques : vérifier les représentations techniques avec les documents ÉRACOM.
-Ouvrir le site avec ?v=5 pour tester la mise à jour.
+ÉRACOM — V6 : 30 croquis, fiches, quiz et photos.
+Décompresser puis importer le contenu à la racine du dépôt GitHub, en conservant les dossiers photos et croquis.
+Vérifier les détails techniques sur les pages du cours ; les dessins sont des supports de mémorisation.
+Tester avec ?v=6 après publication.
