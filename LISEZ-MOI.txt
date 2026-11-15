@@ -1,4 +1,2 @@
-ÉRACOM V10 — 54 croquis pédagogiques.
-Importer les fichiers et dossiers à la racine du dépôt GitHub, en conservant photos/ et croquis/.
-Après publication, tester avec ?v=10 dans Safari.
-Les illustrations sont des aides mémoire : contrôler les schémas techniques sur les pages officielles du cours.
+ÉRACOM V11 : onglet Cours en photos supprimé. Les fiches, quiz, examens et 54 croquis restent présents.
+Importer les fichiers et dossiers à la racine du dépôt GitHub. Tester avec ?v=11.
