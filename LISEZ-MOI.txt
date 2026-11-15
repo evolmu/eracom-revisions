@@ -1,4 +1,1 @@
-MINI-SITE ÉRACOM
-Ouvrez index.html dans un navigateur. Pour l’installer comme application iPhone, il faut publier le dossier sur un hébergement HTTPS (ex. GitHub Pages), puis Safari > Partager > Sur l’écran d’accueil.
-Les résultats sont enregistrés dans le navigateur de l’appareil (localStorage).
-Le site est autonome après téléchargement des fichiers, mais la première installation sur iPhone nécessite un hébergement.
+ÉRACOM V3 : 12 croquis. Remplacer index.html et sw.js, ajouter croquis/croquis-7.jpg à croquis-12.jpg. Les photos et données existantes sont conservées. Rechargez Safari après publication.
