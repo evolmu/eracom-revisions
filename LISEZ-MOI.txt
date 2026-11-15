@@ -1,1 +1,5 @@
-ÉRACOM V3 : 12 croquis. Remplacer index.html et sw.js, ajouter croquis/croquis-7.jpg à croquis-12.jpg. Les photos et données existantes sont conservées. Rechargez Safari après publication.
+ÉRACOM V4 — 18 croquis.
+Importer tous les fichiers et dossiers du ZIP à la racine du dépôt GitHub.
+Cette version conserve les 78 fiches, quiz, examens et les 43 photos.
+Si l'ancienne version persiste, ouvrir Safari avec ?v=4.
+Les dessins sont pédagogiques ; vérifier les détails de points avec le cours officiel.
