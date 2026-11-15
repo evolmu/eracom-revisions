@@ -1,0 +1,4 @@
+MINI-SITE ÉRACOM
+Ouvrez index.html dans un navigateur. Pour l’installer comme application iPhone, il faut publier le dossier sur un hébergement HTTPS (ex. GitHub Pages), puis Safari > Partager > Sur l’écran d’accueil.
+Les résultats sont enregistrés dans le navigateur de l’appareil (localStorage).
+Le site est autonome après téléchargement des fichiers, mais la première installation sur iPhone nécessite un hébergement.
